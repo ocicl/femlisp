@@ -1,0 +1,10 @@
+* femlisp
+
+
+
+|---------+-------------------------------------------|
+| source  | git:git://git.savannah.nongnu.org/femlisp.git   |
+| commit  |   |
+| systems | femlisp |
+|---------+-------------------------------------------|
+
