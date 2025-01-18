@@ -4,6 +4,6 @@
 
 |---------+-----------------------------------------------|
 | source  | git:git://git.savannah.nongnu.org/femlisp.git |
-| commit  | 9084944                                       |
+| commit  | f292af9                                       |
 | systems | femlisp                                       |
 |---------+-----------------------------------------------|
